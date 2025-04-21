@@ -17,6 +17,7 @@ For answers to all the questions you have, go to the FAQs.
 
 If you'd like to contact someone to talk about contributing, then write something in an Issue (see the tab above), which is a good way to communicate openly. (Issues describe what currently needs doing and act as a discussion forum - you need a Github account but it's super easy and not spammy. There's also an email address (chemistry@thesgc.org) you can use to ask questions. 
 
+![image](https://github.com/user-attachments/assets/6af2881f-c553-4eb0-be68-f14826d67a2f)
 
 Some humans involved in this CNP: 
 
@@ -37,6 +38,7 @@ Dr. Wenjie Chen, Protein Scientist University College London, @Wenjie-Ch
 Prof. Joseph Newman, University of Oxford 
 
 Dr. Vito Katis, University of Oxford
+
 <a href="url"><img src="https://github.com/user-attachments/assets/3621be99-5782-4655-9c82-7d7f9016acb9" align="centre" height="150" ></a>
 
 The licence for the content of this project is, unless otherwise stated, and as for all OCN projects, CC-BY-4.0. This means you can do whatever you like with the project content, including making money, provided you cite the project.
