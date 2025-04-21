@@ -11,7 +11,7 @@ You can contribute synthetic chemistry and in return the SGC offers biology. Tog
 
 If this sounds interesting, and you agree to the simple https://www.thesgc.org/sgc-open-chemistry-networks/terms-of-use, you can get started.
 
-For the science background,head to see [the story so far](https://github.com/StructuralGenomicsConsortium/CNP43_SARS-CoV-2_nsP13-Helicase_pyrrolidine/wiki/The-Story-So-Far)..
+For the science background,head to see [the story so far](https://github.com/StructuralGenomicsConsortium/CNP43_SARS-CoV-2_nsP13-Helicase_pyrrolidine/wiki/The-Story-So-Far).
 
 For answers to all the questions you have, go to the FAQs.
 
