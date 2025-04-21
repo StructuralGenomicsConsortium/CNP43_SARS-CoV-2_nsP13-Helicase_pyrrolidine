@@ -2,9 +2,7 @@
 This is a SARS-CoV-2 NSP13 helicase inhibitors development campaign based on Joe crystallographic hit containing pyrrolidine
 
 It is an SGC Open Chemistry Networks Project devoted to the discovery and development of SARS-CoV-2 nsP13 helicase inhibitors. The outbreak of COVID-19 demonstrated the scarcity of drugs in the development pipeline to decrease the mortality and morbidity caused by the new pathogenic SARS-CoV-2 virus. Despite the improved diagnosis and screening processes, broad, directly-acting anticoronavirus drugs were not immediately available to treat viral infections. In response to this health threat, the Rapidly Emerging Antiviral Drug Discovery Initiative – Antiviral Drug Discovery Center (READDI-AC) was established to develop a pipeline of oral, direct-acting antiviral hits, leads, and drug candidates with broad activity against alphaviruses, flaviviruses, coronaviruses, and filoviruses with high pandemic potential. Importantly, READDI-AC currently focuses on highly conserved viral RNA polymerase (RdRp), helicase (Hel), and proteases (Pro) that are essential for positive and/or negative strand emerging virus replication and pathogenesis.
-<a href="url"><img src="https://github.com/user-attachments/assets/3621be99-5782-4655-9c82-7d7f9016acb9" align="centre" height="300" ></a>
-
-![image](https://github.com/user-attachments/assets/9ac8634f-4487-4d8b-8893-c569d1f48e6c)
+<a href="url"><img src="https://github.com/user-attachments/assets/9ac8634f-4487-4d8b-8893-c569d1f48e6c" align="centre" height="200" ></a>
 
 You can contribute synthetic chemistry and in return the SGC offers biology. Together we can generate tool compounds to understand biology and validate drug targets to help cure disease. 
 
@@ -40,7 +38,6 @@ Prof. Joseph Newman, University of Oxford
 Dr. Vito Katis, University of Oxford
 <a href="url"><img src="https://github.com/user-attachments/assets/3621be99-5782-4655-9c82-7d7f9016acb9" align="centre" height="300" ></a>
 
-![image](https://github.com/user-attachments/assets/3621be99-5782-4655-9c82-7d7f9016acb9)
 The licence for the content of this project is, unless otherwise stated, and as for all OCN projects, CC-BY-4.0. This means you can do whatever you like with the project content, including making money, provided you cite the project.
 
 This project is part of the SGC's Open Chemistry Networks initiative.
